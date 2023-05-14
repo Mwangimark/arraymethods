@@ -1,15 +1,4 @@
  //array methods
-//2) push()
-let car = ["Benz","Wish","Fielder","Hilux","Corolla"]
-let bestcar = ["Mark X","Ford"]
-
-  car.push(...bestcar) //merge bestcararray to car array
-  console.log(car)
-  console.log(car.length)
-
-
-
-
  //1) For each ()
 //  let n;
 //  let i;
@@ -24,3 +13,18 @@ let bestcar = ["Mark X","Ford"]
 
 
 //  car.forEach(n=> console.log(n));
+
+
+
+//2) push()
+let car = ["Benz","Wish","Fielder","Hilux","Corolla"]
+let bestcar = ["Mark X","Ford"]
+
+  car.push(...bestcar) //merge bestcararray to car array
+  console.log(car)
+  console.log(car.length)
+
+
+
+
+ 
